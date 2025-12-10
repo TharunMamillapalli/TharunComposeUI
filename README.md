@@ -44,3 +44,27 @@ This app demonstrates beautiful UI, smooth animations, intro screens, profile UI
 
 ## Project Structure
 
+app/
+├── screens/
+├── components/
+├── navigation/
+screenshots/
+README.md
+
+---
+## What this project demonstrates
+
+- Modern Android UI design using Jetpack Compose
+- Handling animations with AnimatedVisibility
+- Navigation using NavHost + composable
+- Compose-only layouts without XML
+- Reusable UI elements and color themes
+- State and remember usage
+
+---
+
+## Developer
+
+**Tharun Mamillapalli**  
+Android Developer  
+Focused on modern UI with Jetpack Compose and clean user experiences.
